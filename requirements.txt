@@ -1,0 +1,6 @@
+pynput
+keyboard
+pystray
+Pillow
+cx_Freeze
+PyInstaller
